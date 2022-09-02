@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt olleh
+chmod 357 olleh
